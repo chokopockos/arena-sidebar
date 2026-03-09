@@ -10,7 +10,7 @@
 // @run-at       document-idle
 // @updateURL    https://raw.githubusercontent.com/chokopockos/arena-sidebar/main/claude-tree-sidebar.user.js
 // @downloadURL  https://raw.githubusercontent.com/chokopockos/arena-sidebar/main/claude-tree-sidebar.user.js
-// @supportURL   https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/РЕПО/issues
+// @supportURL   https://github.com/chokopockos/arena-sidebar/issues
 // ==/UserScript==
 
 (function () {
