@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      6.2
 // @description  Tree sidebar + Summary + Auto-save for arena.ai
-// @author       ТвойНик
+// @author       chokopockos
 // @match        https://arena.ai/*
 // @match        https://lmarena.ai/*
 // @grant        none
